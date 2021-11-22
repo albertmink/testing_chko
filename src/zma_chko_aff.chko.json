@@ -1,11 +1,11 @@
 {
   "formatVersion": "1",
   "header": {
-    "description": "chko for abapgit",
+    "description": "chko for abapgit, do edit on file basis",
     "originalLanguage": "E",
     "abapLanguageVersion": ""
   },
-  "category": "CI_CDS",
+  "category": "AFF_EXAMPLE_CHKC",
   "implementingClass": "ZCL_CI_TEST_FOR_ALL_ENTRIES",
   "remoteEnabled": true,
   "parameters": []

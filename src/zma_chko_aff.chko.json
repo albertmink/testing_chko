@@ -1,0 +1,12 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "chko for git",
+    "originalLanguage": "E",
+    "abapLanguageVersion": ""
+  },
+  "category": "CI_CDS",
+  "implementingClass": "ZCL_CI_TEST_FOR_ALL_ENTRIES",
+  "remoteEnabled": true,
+  "parameters": []
+}

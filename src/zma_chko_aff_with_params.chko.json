@@ -1,0 +1,42 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "chko with parameters",
+    "originalLanguage": "en"
+  },
+  "category": "AFF_EXAMPLE_CHKC",
+  "implementingClass": "ZCL_SAUNIT_LEGACY_CI_CHECK",
+  "checkType": "remoteEnabled",
+  "parameters": [
+    {
+      "name": "MaximumRiskLevel",
+      "description": "Maximum Risk Level",
+      "hidden": true
+    },
+    {
+      "name": "MaximumRuntimeCategory",
+      "description": "Maximum Runtime Category",
+      "hidden": true
+    },
+    {
+      "name": "RuntimeRestriction",
+      "description": "Runtime Restriction",
+      "hidden": true
+    },
+    {
+      "name": "DurationLong",
+      "description": "Long",
+      "hidden": true
+    },
+    {
+      "name": "DurationMedium",
+      "description": "Medium",
+      "hidden": true
+    },
+    {
+      "name": "DurationShort",
+      "description": "Short",
+      "hidden": true
+    }
+  ]
+}

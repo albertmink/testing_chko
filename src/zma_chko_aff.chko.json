@@ -1,12 +1,10 @@
 {
   "formatVersion": "1",
   "header": {
-    "description": "chko for abapgit some change",
-    "originalLanguage": "E",
-    "abapLanguageVersion": ""
+    "description": "chko for abapgit",
+    "originalLanguage": "en"
   },
   "category": "CI_CDS",
   "implementingClass": "ZCL_CI_TEST_FOR_ALL_ENTRIES",
-  "remoteEnabled": true,
-  "parameters": []
+  "checkType": "remoteEnabled"
 }
